@@ -1,4 +1,4 @@
-# ProyectoModelosI
+# Proyecto - Modelos y Simulación de Sistemas I
 
 Santiago Alexander Losada Muñoz  
   - Identificación: 1072565566  
