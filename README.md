@@ -1,13 +1,13 @@
 # ProyectoModelosI
 
-- Santiago Alexander Losada Muñoz  
+Santiago Alexander Losada Muñoz  
   - Identificación: 1072565566  
-  - Carrera: Ingeniería de Sistemas
+  - Programa: Ingeniería de Sistemas
 
-- Wilmar Andrés Osorio Úsuga  
+Wilmar Andrés Osorio Úsuga  
   - Identificación: 1000105880  
-  - Carrera: Ingeniería de Sistemas
+  - Programa: Ingeniería de Sistemas
 
-- Dayana Ramírez Areiza  
+Dayana Ramírez Areiza  
   - Identificación: 1001813145  
-  - Carrera: Ingeniería de Sistemas
+  - Programa: Ingeniería de Sistemas
