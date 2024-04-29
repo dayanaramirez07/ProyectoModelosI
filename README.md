@@ -11,3 +11,7 @@ Wilmar Andrés Osorio Úsuga
 Dayana Ramírez Areiza  
   - Identificación: 1001813145  
   - Programa: Ingeniería de Sistemas
+
+# Videos
+
+- [02 - preprocesado](https://youtu.be/kBBUSTB4JxM)
