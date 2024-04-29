@@ -14,4 +14,4 @@ Dayana Ramírez Areiza
 
 # Videos
 
-- [02 - preprocesado](https://youtu.be/kBBUSTB4JxM)
+- [02 - preprocesado](https://youtu.be/t0xEZuyXfBs)
