@@ -15,3 +15,4 @@ Dayana Ramírez Areiza
 # Videos
 
 - [02 - preprocesado](https://youtu.be/t0xEZuyXfBs)
+- [99 - modelo solución](https://youtu.be/CM51e2pGdfI)
